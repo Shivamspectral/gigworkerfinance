@@ -9,6 +9,8 @@ author: "Alex Rivera"
 image: "https://i.ibb.co/zh0n08Rf/doordash-tax-deductions.jpg"
 ---
 
+
+
 If you Dashed in 2025, the IRS treats you as a self-employed business owner, not an employee. That is annoying in April and useful the rest of the year. Self-employed Dashers can subtract ordinary and necessary business expenses from gig income on Schedule C, which lowers both income tax and the self-employment tax that hits 1099 work.
 
 This guide is a complete, practical list of DoorDash deductions drivers actually use. It is educational, not personalized tax advice. Confirm the current standard mileage rate and any new IRS rules before you file.

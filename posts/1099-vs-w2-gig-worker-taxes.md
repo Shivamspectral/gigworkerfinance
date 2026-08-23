@@ -9,6 +9,8 @@ author: "Alex Rivera"
 image: "https://i.ibb.co/1f56WrzN/1099-vs-w2.jpg"
 ---
 
+
+
 ## Uber, Lyft, DoorDash, Instacart, and Grubhub generally treat drivers as independent contractors. That single choice — 1099 instead of W-2 — changes how you are paid, how you are taxed, and what you have to do in January through April.
 
 If you only remember one thing: **a 1099 is not a paycheck stub**. It is a report of money you already received, with no taxes removed.

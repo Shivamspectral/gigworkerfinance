@@ -9,6 +9,8 @@ author: "Alex Rivera"
 image: "https://i.ibb.co/ZRw8NbH7/quarterly-taxes.jpg"
 ---
 
+
+
 ## Quarterly estimated taxes are the part of gig work nobody mentions in the recruitment ad. There is no payroll department. If you expect to owe at least $1,000 when you file, the IRS generally wants you to pay as you go — four times a year — or it can add an underpayment penalty.
 
 This is a simple walk-through for Uber, Lyft, DoorDash, Instacart, and Grubhub drivers. It is not a substitute for a preparer if your return includes a house sale, a second business, or a messy prior year.

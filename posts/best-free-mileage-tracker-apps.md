@@ -9,6 +9,8 @@ author: "Alex Rivera"
 image: "https://i.ibb.co/sddmq680/mileage-apps.jpg"
 ---
 
+
+
 ## Mileage is the deduction most gig drivers either nail or completely fumble. At the 2025 IRS rate of **70 cents per business mile**, 12,000 working miles is an $8,400 deduction. That is real money. A notebook can work. An app is easier if you pick one you will actually leave on.
 
 This is a practical look at free (or free-enough) mileage trackers for Uber, Lyft, DoorDash, Instacart, and Grubhub drivers. Features change. Verify current pricing in the App Store or Play Store before you commit.

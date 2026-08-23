@@ -9,6 +9,8 @@ author: "Alex Rivera"
 image: "https://i.ibb.co/Y7dd81qJ/save-for-taxes.jpg"
 ---
 
+
+
 Gig deposits look bigger than a W-2 paycheck because nobody pulled taxes out. The money is not all yours. If you spend like it is, April becomes a crisis instead of a chore.
 
 This article gives you a concrete savings range, shows the math behind it, and lays out a weekly system that works when your hours bounce around.
