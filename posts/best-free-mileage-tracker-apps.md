@@ -1,15 +1,20 @@
 \---
 
 title: "Best Free Mileage Tracker Apps for Rideshare and Delivery Drivers"
-date: "2025-03-04"
-excerpt: "A driver-first comparison of free mileage tracker apps for Uber, Lyft, and DoorDash — what the IRS cares about, and which apps are actually usable between pings."
+
+date: "2025-02-18"
+
+excerpt: "Compare free mileage tracking apps for Uber, Lyft, and DoorDash drivers — features, accuracy, IRS compliance, and which one actually saves you the most tax."
+
 category: "Apps \& Tools"
-readTime: "10 min"
+
+readTime: "9 min"
+
 author: "Alex Rivera"
+
 image: "https://i.ibb.co/sddmq680/mileage-apps.jpg"
----
 
-
+\---
 
 ## Mileage is the deduction most gig drivers either nail or completely fumble. At the 2025 IRS rate of **70 cents per business mile**, 12,000 working miles is an $8,400 deduction. That is real money. A notebook can work. An app is easier if you pick one you will actually leave on.
 

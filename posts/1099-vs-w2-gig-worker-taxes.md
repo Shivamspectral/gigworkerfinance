@@ -1,15 +1,20 @@
 \---
 
 title: "1099 vs W2: What Every Gig Worker Needs to Know About Taxes"
+
 date: "2025-02-18"
+
 excerpt: "The real difference between 1099 gig work and a W-2 job — self-employment tax, Schedule C, benefits you lose, and how hybrid drivers should file."
+
 category: "Taxes"
+
 readTime: "11 min"
+
 author: "Alex Rivera"
+
 image: "https://i.ibb.co/1f56WrzN/1099-vs-w2.jpg"
----
 
-
+\---
 
 ## Uber, Lyft, DoorDash, Instacart, and Grubhub generally treat drivers as independent contractors. That single choice — 1099 instead of W-2 — changes how you are paid, how you are taxed, and what you have to do in January through April.
 

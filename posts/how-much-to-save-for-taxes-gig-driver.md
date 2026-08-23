@@ -1,15 +1,20 @@
 \---
 
 title: "How Much Should I Save for Taxes as a Gig Driver? (Uber, Lyft, DoorDash)"
-date: "2025-02-03"
-excerpt: "A clear savings target for Uber, Lyft, and DoorDash drivers — including self-employment tax, income tax, and a simple weekly transfer system that survives slow weeks."
+
+date: "2025-02-18"
+
+excerpt: "The realistic savings rate for rideshare and delivery drivers, why 25–30% is the safe zone, and how to automate it so you never scramble in April."
+
 category: "Budgeting"
-readTime: "9 min"
+
+readTime: "8 min"
+
 author: "Alex Rivera"
+
 image: "https://i.ibb.co/Y7dd81qJ/save-for-taxes.jpg"
----
 
-
+\---
 
 Gig deposits look bigger than a W-2 paycheck because nobody pulled taxes out. The money is not all yours. If you spend like it is, April becomes a crisis instead of a chore.
 

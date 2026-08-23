@@ -1,15 +1,20 @@
 \---
 
 title: "Quarterly Estimated Taxes for Gig Workers: A Simple Step-by-Step Guide"
-date: "2025-03-20"
-excerpt: "A step-by-step 2025 guide to quarterly estimated taxes for gig workers — who has to pay, how to calculate a safe number, due dates, and how to pay the IRS without panic."
+
+date: "2025-02-18"
+
+excerpt: "When, why, and how to pay quarterly taxes as a 1099 driver — deadlines, Form 1040-ES, safe harbor rules, and avoiding underpayment penalties."
+
 category: "Taxes"
-readTime: "12 min"
+
+readTime: "10 min"
+
 author: "Alex Rivera"
+
 image: "https://i.ibb.co/ZRw8NbH7/quarterly-taxes.jpg"
----
 
-
+\---
 
 ## Quarterly estimated taxes are the part of gig work nobody mentions in the recruitment ad. There is no payroll department. If you expect to owe at least $1,000 when you file, the IRS generally wants you to pay as you go — four times a year — or it can add an underpayment penalty.
 

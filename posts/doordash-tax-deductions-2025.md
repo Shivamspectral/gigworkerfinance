@@ -1,15 +1,20 @@
 \---
 
 title: "DoorDash Tax Deductions: The Complete List for 2025"
-date: "2025-01-15"
-excerpt: "A practical 2025 checklist of DoorDash tax deductions — mileage, hot bags, phone costs, and the expenses drivers often miss — plus the records the IRS actually wants."
+
+date: "2025-02-18"
+
+excerpt: "Every deductible expense DoorDash drivers can claim — mileage, hot bags, phone, supplies — with IRS rules and real examples."
+
 category: "Taxes"
+
 readTime: "10 min"
+
 author: "Alex Rivera"
+
 image: "https://i.ibb.co/zh0n08Rf/doordash-tax-deductions.jpg"
----
 
-
+\---
 
 If you Dashed in 2025, the IRS treats you as a self-employed business owner, not an employee. That is annoying in April and useful the rest of the year. Self-employed Dashers can subtract ordinary and necessary business expenses from gig income on Schedule C, which lowers both income tax and the self-employment tax that hits 1099 work.
 
