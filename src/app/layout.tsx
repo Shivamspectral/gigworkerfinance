@@ -7,9 +7,6 @@ import Header from "@/components/Header";
 import { siteConfig } from "@/lib/site";
 import "./globals.css";
 
-<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4387421502552077"
-     crossorigin="anonymous"></script></head>
-
 const plusJakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],
   variable: "--font-plus-jakarta",
@@ -73,7 +70,6 @@ export const metadata: Metadata = {
 };
 
 const gaId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
-const adsenseId = process.env.NEXT_PUBLIC_ADSENSE_PUBLISHER_ID;
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
@@ -81,22 +77,16 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         {/* Google Search Console verification */}
         <meta name="google-site-verification" content="O0xdRWKaz0Pg5_vbJrtcl6CYDdU8Z2f5-g728kwTfAs" />
-        {/*
-          Google AdSense verification / publisher meta tag.
-          When you have a publisher ID, set NEXT_PUBLIC_ADSENSE_PUBLISHER_ID in .env
-          (example: ca-pub-xxxxxxxxxxxxxxxx). The tag below is injected automatically.
-          You can also paste this by hand:
-          <meta name="google-adsense-account" content="ca-pub-xxxxxxxxxxxxxxxx" />
-        */}
-        {adsenseId ? <meta name="google-adsense-account" content={adsenseId} /> : null}
+        {/* Google AdSense */}
+        <meta name="google-adsense-account" content="ca-pub-4387421502552077" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4387421502552077"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className={`${plusJakarta.variable} ${sourceSerif.variable} bg-[#f7f9fc] font-sans text-navy-900 antialiased`}>
-        {/*
-          Google Analytics 4
-          Set NEXT_PUBLIC_GA_MEASUREMENT_ID (example: G-XXXXXXXXXX) to enable tracking.
-          To add the script manually later, place it here:
-          <Script src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX" strategy="afterInteractive" />
-        */}
+        {/* Google Analytics 4 */}
         {gaId ? (
           <>
             <Script src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`} strategy="afterInteractive" />
@@ -107,15 +97,6 @@ gtag('js', new Date());
 gtag('config', '${gaId}');`}
             </Script>
           </>
-        ) : null}
-        {adsenseId ? (
-          <Script
-            id="adsense-loader"
-            async
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}`}
-            crossOrigin="anonymous"
-            strategy="afterInteractive"
-          />
         ) : null}
         <Header />
         {children}
