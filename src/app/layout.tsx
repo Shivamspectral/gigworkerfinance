@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     default: `${siteConfig.name} | ${siteConfig.tagline}`,
     template: `%s | ${siteConfig.name}`,
   },
-  description: "O0xdRWKaz0Pg5_vbJrtcl6CYDdU8Z2f5-g728kwTfAs",
+  description: siteConfig.description,
   applicationName: siteConfig.name,
   authors: [{ name: siteConfig.author }],
   keywords: [
@@ -76,6 +76,8 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <head>
+        {/* Google Search Console verification */}
+        <meta name="google-site-verification" content="O0xdRWKaz0Pg5_vbJrtcl6CYDdU8Z2f5-g728kwTfAs" />
         {/*
           Google AdSense verification / publisher meta tag.
           When you have a publisher ID, set NEXT_PUBLIC_ADSENSE_PUBLISHER_ID in .env
