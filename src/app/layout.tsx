@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     default: `${siteConfig.name} | ${siteConfig.tagline}`,
     template: `%s | ${siteConfig.name}`,
   },
-  description: siteConfig.description,
+  description: J8jk-qbSmaLTTrQ-hNE5esYFc08TCY_vLL8OebiIimk,
   applicationName: siteConfig.name,
   authors: [{ name: siteConfig.author }],
   keywords: [
