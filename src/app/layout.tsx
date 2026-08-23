@@ -7,6 +7,9 @@ import Header from "@/components/Header";
 import { siteConfig } from "@/lib/site";
 import "./globals.css";
 
+<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4387421502552077"
+     crossorigin="anonymous"></script></head>
+
 const plusJakarta = Plus_Jakarta_Sans({
   subsets: ["latin"],
   variable: "--font-plus-jakarta",
