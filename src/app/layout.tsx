@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     description: siteConfig.description,
     images: [
       {
-        url: "/images/og-default.jpg",
+        url: "https://i.ibb.co/4nHRZf7c/hero-driver.jpg",
         width: 1200,
         height: 630,
         alt: `${siteConfig.name} — ${siteConfig.tagline}`,
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: `${siteConfig.name} | ${siteConfig.tagline}`,
     description: siteConfig.description,
-    images: ["/images/og-default.jpg"],
+    images: ["https://i.ibb.co/4nHRZf7c/hero-driver.jpg"],
   },
   robots: {
     index: true,
