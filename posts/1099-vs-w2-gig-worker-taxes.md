@@ -1,14 +1,15 @@
----
+\---
+
 title: "1099 vs W2: What Every Gig Worker Needs to Know About Taxes"
 date: "2025-02-18"
 excerpt: "The real difference between 1099 gig work and a W-2 job — self-employment tax, Schedule C, benefits you lose, and how hybrid drivers should file."
 category: "Taxes"
 readTime: "11 min"
 author: "Alex Rivera"
-image: "/images/posts/1099-vs-w2.jpg"
+image: "https://i.ibb.co/1f56WrzN/1099-vs-w2.jpg"
 ---
 
-Uber, Lyft, DoorDash, Instacart, and Grubhub generally treat drivers as independent contractors. That single choice — 1099 instead of W-2 — changes how you are paid, how you are taxed, and what you have to do in January through April.
+## Uber, Lyft, DoorDash, Instacart, and Grubhub generally treat drivers as independent contractors. That single choice — 1099 instead of W-2 — changes how you are paid, how you are taxed, and what you have to do in January through April.
 
 If you only remember one thing: **a 1099 is not a paycheck stub**. It is a report of money you already received, with no taxes removed.
 
@@ -22,8 +23,8 @@ A W-2 comes from an employer. They withheld federal income tax, Social Security,
 
 Gig platforms may send:
 
-- **1099-NEC** for nonemployee compensation
-- **1099-K** for payments processed through a third-party network
+* **1099-NEC** for nonemployee compensation
+* **1099-K** for payments processed through a third-party network
 
 Thresholds have shifted in recent years, and companies do not all report the same way. **You must report the income whether a form arrives or not.** If the form is wrong, you still start from your own records and then reconcile.
 
@@ -31,15 +32,15 @@ A 1099 does not say how much tax you owe. It just tells the IRS a number they ca
 
 ## Side-by-side: the tax differences that matter
 
-| Topic | W-2 employee | 1099 gig worker |
-| --- | --- | --- |
-| Income tax withholding | Automatic | You handle it |
-| Social Security & Medicare | 7.65% from your check; employer pays 7.65% | You pay 15.3% self-employment tax on net profit |
-| Expense deductions | Unreimbursed job expenses are rarely deductible | Ordinary/necessary business expenses on Schedule C |
-| Mileage | Generally not a personal deduction | Often your largest deduction |
-| Forms | W-2 + Form 1040 | 1099s + Schedule C + Schedule SE + Form 1040 |
-| Quarterly estimates | Rare if withholding is accurate | Common if you expect to owe $1,000+ |
-| Unemployment / W-2 benefits | Often eligible | Generally not, unless a special program applies |
+|Topic|W-2 employee|1099 gig worker|
+|-|-|-|
+|Income tax withholding|Automatic|You handle it|
+|Social Security \& Medicare|7.65% from your check; employer pays 7.65%|You pay 15.3% self-employment tax on net profit|
+|Expense deductions|Unreimbursed job expenses are rarely deductible|Ordinary/necessary business expenses on Schedule C|
+|Mileage|Generally not a personal deduction|Often your largest deduction|
+|Forms|W-2 + Form 1040|1099s + Schedule C + Schedule SE + Form 1040|
+|Quarterly estimates|Rare if withholding is accurate|Common if you expect to owe $1,000+|
+|Unemployment / W-2 benefits|Often eligible|Generally not, unless a special program applies|
 
 That table is why two people who “made $40,000” can have completely different April bills.
 
@@ -61,12 +62,12 @@ If you drive for three apps, you usually still have **one** rideshare/delivery b
 
 Taxes are only half the story. Contractors typically do not get:
 
-- Employer health insurance
-- Employer 401(k) match
-- Paid sick time
-- Unemployment insurance (in most cases)
-- Workers’ compensation (you are the business)
-- Someone else tracking your hours or mileage
+* Employer health insurance
+* Employer 401(k) match
+* Paid sick time
+* Unemployment insurance (in most cases)
+* Workers’ compensation (you are the business)
+* Someone else tracking your hours or mileage
 
 You can rebuild pieces of this: a marketplace health plan, a SEP-IRA or solo 401(k), an emergency fund that *is* your sick day. Those cost money, which is another reason the 25–30% tax savings rate should sit next to a separate emergency pot.
 
@@ -78,9 +79,9 @@ Common mistake: “I already have taxes taken out at my warehouse job, so the Do
 
 Fixes that work:
 
-- Raise W-2 withholding with a new Form W-4 so your day job over-withholds enough to cover the side hustle
-- Or make quarterly estimates just on the gig profit
-- Or do a mix
+* Raise W-2 withholding with a new Form W-4 so your day job over-withholds enough to cover the side hustle
+* Or make quarterly estimates just on the gig profit
+* Or do a mix
 
 If your W-2 job already maxes Social Security wages, extra Medicare can still apply, and income tax still applies. Do not assume “I hit the cap” means gig work is untaxed.
 
@@ -92,11 +93,11 @@ Do not skip a return while you wait for a classification headline. File with the
 
 ## Mistakes that trigger letters
 
-- Reporting only the 1099 total and ignoring cash-app tips or missing weeks
-- Ignoring a 1099-K that the IRS also received
-- Deducting 100% of a personal car with no mileage log
-- Forgetting state returns
-- Filing as if the gig were a W-2 hobby with no Schedule C (the IRS matching systems are better than they used to be)
+* Reporting only the 1099 total and ignoring cash-app tips or missing weeks
+* Ignoring a 1099-K that the IRS also received
+* Deducting 100% of a personal car with no mileage log
+* Forgetting state returns
+* Filing as if the gig were a W-2 hobby with no Schedule C (the IRS matching systems are better than they used to be)
 
 If you get a CP2000 notice saying you omitted a 1099, do not panic-pay blindly. Compare it to your records. Sometimes the form double-counts or includes gross vs. net incorrectly. Respond with a worksheet, not silence.
 
@@ -114,3 +115,4 @@ If you get a CP2000 notice saying you omitted a 1099, do not panic-pay blindly. 
 ## Bottom line
 
 W-2 means someone else ran payroll. 1099 means **you** are payroll. You get deductions W-2 employees do not, and you get a tax bill W-2 employees never see in one lump. Treat the app like a customer, treat yourself like a tiny business, and the 1099 vs W-2 confusion gets a lot smaller.
+

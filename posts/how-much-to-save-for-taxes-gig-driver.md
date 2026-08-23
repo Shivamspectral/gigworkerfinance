@@ -1,11 +1,12 @@
----
+\---
+
 title: "How Much Should I Save for Taxes as a Gig Driver? (Uber, Lyft, DoorDash)"
 date: "2025-02-03"
 excerpt: "A clear savings target for Uber, Lyft, and DoorDash drivers — including self-employment tax, income tax, and a simple weekly transfer system that survives slow weeks."
 category: "Budgeting"
 readTime: "9 min"
 author: "Alex Rivera"
-image: "/images/posts/save-for-taxes.jpg"
+image: "https://i.ibb.co/Y7dd81qJ/save-for-taxes.jpg"
 ---
 
 Gig deposits look bigger than a W-2 paycheck because nobody pulled taxes out. The money is not all yours. If you spend like it is, April becomes a crisis instead of a chore.
@@ -18,11 +19,11 @@ Most US gig drivers should save **25% to 30% of net profit** for federal taxes. 
 
 A more precise split looks like this:
 
-| Situation | Starting savings rate on net profit |
-| --- | --- |
-| Lower income, standard deduction covers a lot of it | 15–20% |
-| Typical full-time or heavy part-time driver | 25–30% |
-| High earner, no kids, high-tax state | 30–40% |
+|Situation|Starting savings rate on net profit|
+|-|-|
+|Lower income, standard deduction covers a lot of it|15–20%|
+|Typical full-time or heavy part-time driver|25–30%|
+|High earner, no kids, high-tax state|30–40%|
 
 If you also owe state income tax, add that on top. A driver in Texas or Florida has a different number than a driver in California or New York.
 
@@ -32,19 +33,19 @@ W-2 employees see Social Security and Medicare come out at 7.65%. Gig workers pa
 
 Then federal income tax sits on top of that, after:
 
-- The deductible half of self-employment tax
-- The standard deduction (or itemized deductions)
-- The 20% qualified business income (QBI) deduction if you qualify
+* The deductible half of self-employment tax
+* The standard deduction (or itemized deductions)
+* The 20% qualified business income (QBI) deduction if you qualify
 
 A simplified example for a single Dasher in 2025:
 
-- Gross gig pay: $48,000
-- Mileage and expenses: $14,000
-- Net profit: $34,000
-- Self-employment tax: roughly $4,800
-- Half of SE tax deductible: about $2,400
-- QBI (roughly 20% of remaining profit): about $6,300
-- Taxable income after the 2025 single standard deduction of $15,000: much lower than $34,000
+* Gross gig pay: $48,000
+* Mileage and expenses: $14,000
+* Net profit: $34,000
+* Self-employment tax: roughly $4,800
+* Half of SE tax deductible: about $2,400
+* QBI (roughly 20% of remaining profit): about $6,300
+* Taxable income after the 2025 single standard deduction of $15,000: much lower than $34,000
 
 In that example, total federal tax might land near **$6,000–$7,500**, which is about **18–22% of net profit** — plus state tax if any. Saving 25% would cover the bill and leave a cushion.
 
@@ -62,11 +63,11 @@ Better approach:
 
 Example week:
 
-- Uber + DoorDash deposits: $920
-- Gas: $130
-- 380 business miles × $0.70 = $266 mileage stand-in
-- Rough profit: $920 − $266 = $654 (gas is already inside the mileage rate, so do not subtract both if you plan to take mileage)
-- Tax transfer: 25% × $654 ≈ $164
+* Uber + DoorDash deposits: $920
+* Gas: $130
+* 380 business miles × $0.70 = $266 mileage stand-in
+* Rough profit: $920 − $266 = $654 (gas is already inside the mileage rate, so do not subtract both if you plan to take mileage)
+* Tax transfer: 25% × $654 ≈ $164
 
 If you take the standard mileage rate, do not also treat gas as a separate deduction in your tax estimate. Use mileage *or* actual expenses in the estimate, just like on the return.
 
@@ -109,10 +110,10 @@ Penalties and interest are cheaper than ignoring the bill.
 
 Federal tax is not the whole story:
 
-- State income tax (rates vary widely)
-- Local income or city taxes in a few places
-- City or state business licenses / gross-receipts taxes in some markets
-- Sales tax on a vehicle you bought
+* State income tax (rates vary widely)
+* Local income or city taxes in a few places
+* City or state business licenses / gross-receipts taxes in some markets
+* Sales tax on a vehicle you bought
 
 If you drive in a high-tax state, bump the savings rate toward 30–35% of profit until you have one filed return to reverse-engineer.
 
@@ -127,3 +128,4 @@ Until you have that history, 25–30% of profit is the responsible default for a
 ## Bottom line
 
 Save **a quarter to a third of profit**, not of gross. Park it in a separate account. Send it to the IRS four times a year. That is the entire “secret.” The drivers who look financially stable are rarely the highest earners — they are the ones who treated the tax man as a silent partner from week one.
+

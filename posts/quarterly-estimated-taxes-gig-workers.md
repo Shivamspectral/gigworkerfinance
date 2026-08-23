@@ -1,14 +1,15 @@
----
+\---
+
 title: "Quarterly Estimated Taxes for Gig Workers: A Simple Step-by-Step Guide"
 date: "2025-03-20"
 excerpt: "A step-by-step 2025 guide to quarterly estimated taxes for gig workers — who has to pay, how to calculate a safe number, due dates, and how to pay the IRS without panic."
 category: "Taxes"
 readTime: "12 min"
 author: "Alex Rivera"
-image: "/images/posts/quarterly-taxes.jpg"
+image: "https://i.ibb.co/ZRw8NbH7/quarterly-taxes.jpg"
 ---
 
-Quarterly estimated taxes are the part of gig work nobody mentions in the recruitment ad. There is no payroll department. If you expect to owe at least $1,000 when you file, the IRS generally wants you to pay as you go — four times a year — or it can add an underpayment penalty.
+## Quarterly estimated taxes are the part of gig work nobody mentions in the recruitment ad. There is no payroll department. If you expect to owe at least $1,000 when you file, the IRS generally wants you to pay as you go — four times a year — or it can add an underpayment penalty.
 
 This is a simple walk-through for Uber, Lyft, DoorDash, Instacart, and Grubhub drivers. It is not a substitute for a preparer if your return includes a house sale, a second business, or a messy prior year.
 
@@ -16,8 +17,8 @@ This is a simple walk-through for Uber, Lyft, DoorDash, Instacart, and Grubhub d
 
 You likely need estimates if **all** of these are true:
 
-- You expect to owe **$1,000 or more** after subtracting withholding and refundable credits
-- Your withholding and credits will cover less than **90% of this year’s tax** (or 100% of last year’s tax; 110% if last year’s AGI was over $150,000)
+* You expect to owe **$1,000 or more** after subtracting withholding and refundable credits
+* Your withholding and credits will cover less than **90% of this year’s tax** (or 100% of last year’s tax; 110% if last year’s AGI was over $150,000)
 
 If you have a W-2 job and you crank withholding high enough to cover the gig profit, you may not need separate quarterly payments. That is a valid strategy. Many hybrid drivers prefer it because it is automatic.
 
@@ -44,16 +45,16 @@ Do not use gross deposits.
 
 For a quick driver estimate:
 
-- Add expected annual deposits
-- Subtract expected business miles × the 2025 rate of $0.70
-- Subtract other obvious costs (bags, mount, business portion of phone)
+* Add expected annual deposits
+* Subtract expected business miles × the 2025 rate of $0.70
+* Subtract other obvious costs (bags, mount, business portion of phone)
 
 Example:
 
-- Expected Uber + DoorDash pay: $52,000
-- Expected business miles: 18,000 × $0.70 = $12,600
-- Phone / gear: $600
-- Estimated net profit: $38,800
+* Expected Uber + DoorDash pay: $52,000
+* Expected business miles: 18,000 × $0.70 = $12,600
+* Phone / gear: $600
+* Estimated net profit: $38,800
 
 If you are three months in, annualize: first-quarter profit × 4, then adjust if summer is usually busier.
 
@@ -88,11 +89,11 @@ Always keep a written note: date, amount, period covered.
 
 Good options:
 
-- **IRS Direct Pay** (bank account, no login required for a one-off)
-- **EFTPS** (best once you enroll; use it all year)
-- IRS2Go app
-- Electronic federal tax payment through some tax software
-- Check with Form 1040-ES voucher if you must, mailed with enough time to arrive by the deadline
+* **IRS Direct Pay** (bank account, no login required for a one-off)
+* **EFTPS** (best once you enroll; use it all year)
+* IRS2Go app
+* Electronic federal tax payment through some tax software
+* Check with Form 1040-ES voucher if you must, mailed with enough time to arrive by the deadline
 
 Use the payment type **Estimated Tax** and your Social Security number. Pay from a bank account you monitor so you notice failed payments.
 
@@ -121,11 +122,11 @@ If you already missed Q1 and Q2, start with Q3. Paying something late is better 
 
 Block 60 minutes on each due-date week:
 
-- 15 minutes: export mileage and earnings
-- 15 minutes: update the profit spreadsheet
-- 10 minutes: decide the payment
-- 10 minutes: pay federal and state
-- 10 minutes: save confirmations as PDFs
+* 15 minutes: export mileage and earnings
+* 15 minutes: update the profit spreadsheet
+* 10 minutes: decide the payment
+* 10 minutes: pay federal and state
+* 10 minutes: save confirmations as PDFs
 
 Then go back on the road. This is a business chore, like an oil change.
 
@@ -142,3 +143,4 @@ Then go back on the road. This is a business chore, like an oil change.
 ## Bottom line
 
 Quarterly taxes are four calendar alerts, one savings account, and a reasonable guess you revise as you go. Use 25–30% of profit as the fuel, the 1040-ES safe harbor as the guardrail, and Direct Pay or EFTPS as the hose. Do that, and “estimated taxes” stop being a threat and start being a routine — which is exactly how financially stable gig drivers treat them.
+

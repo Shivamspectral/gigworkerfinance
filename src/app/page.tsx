@@ -14,7 +14,7 @@ export default function HomePage() {
     <main id="main-content">
       <section className="relative overflow-hidden bg-navy-950 text-white">
         <div className="absolute inset-0">
-          <Image src="/images/hero-driver.jpg" alt="" fill priority sizes="100vw" className="object-cover opacity-35" />
+          <Image src="https://i.ibb.co/4nHRZf7c/hero-driver.jpg" alt="" fill priority sizes="100vw" className="object-cover opacity-35" />
           <div className="absolute inset-0 bg-gradient-to-r from-navy-950 via-navy-950/88 to-navy-950/55" />
         </div>
         <div className="relative mx-auto grid max-w-6xl gap-10 px-4 py-16 md:grid-cols-[1.15fr_0.85fr] md:px-6 md:py-24">

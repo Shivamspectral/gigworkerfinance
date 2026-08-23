@@ -1,0 +1,7 @@
+hero-driver.jpg = https://i.ibb.co/4nHRZf7c/hero-driver.jpg
+about-author.jpg = https://i.ibb.co/HLb2g5Jb/about-author.jpg
+1099-vs-w2.jpg = https://i.ibb.co/1f56WrzN/1099-vs-w2.jpg
+mileage-apps.jpg = https://i.ibb.co/sddmq680/mileage-apps.jpg
+doordash-tax-deductions.jpg = https://i.ibb.co/zh0n08Rf/doordash-tax-deductions.jpg
+save-for-taxes.jpg = https://i.ibb.co/Y7dd81qJ/save-for-taxes.jpg
+quarterly-taxes.jpg = https://i.ibb.co/ZRw8NbH7/quarterly-taxes.jpg

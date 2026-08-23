@@ -18,7 +18,7 @@ export default function AboutPage() {
 
       <div className="mt-10 overflow-hidden rounded-3xl border border-navy-100 bg-white shadow-sm md:grid md:grid-cols-[280px_1fr]">
         <div className="relative min-h-72">
-          <Image src="/images/about-author.jpg" alt={`${siteConfig.author}, ${siteConfig.authorRole}`} fill className="object-cover" sizes="280px" />
+          <Image src="https://i.ibb.co/HLb2g5Jb/about-author.jpg" alt={`${siteConfig.author}, ${siteConfig.authorRole}`} fill className="object-cover" sizes="280px" />
         </div>
         <div className="p-6 md:p-8">
           <p className="text-sm font-semibold text-forest-700">Author</p>
