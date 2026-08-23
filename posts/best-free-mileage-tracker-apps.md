@@ -1,125 +1,163 @@
-\---
-
+﻿---
 title: "Best Free Mileage Tracker Apps for Rideshare and Delivery Drivers"
-
 date: "2025-02-18"
-
-excerpt: "Compare free mileage tracking apps for Uber, Lyft, and DoorDash drivers — features, accuracy, IRS compliance, and which one actually saves you the most tax."
-
-category: "Apps \& Tools"
-
+excerpt: "Compare the best free mileage tracking apps for Uber, Lyft, and DoorDash drivers - features, accuracy, IRS compliance, and which one saves you the most tax."
+category: "Apps & Tools"
 readTime: "9 min"
-
 author: "Alex Rivera"
-
 image: "https://i.ibb.co/sddmq680/mileage-apps.jpg"
+---
 
-\---
+## Why mileage tracking is the most important habit for gig drivers
 
-## Mileage is the deduction most gig drivers either nail or completely fumble. At the 2025 IRS rate of **70 cents per business mile**, 12,000 working miles is an $8,400 deduction. That is real money. A notebook can work. An app is easier if you pick one you will actually leave on.
+Mileage is almost always the single largest tax deduction available to rideshare and delivery drivers. The IRS standard mileage rate for 2025 is 70 cents per mile. Drive 20,000 miles for work and that is a $14,000 deduction off your taxable income.
 
-This is a practical look at free (or free-enough) mileage trackers for Uber, Lyft, DoorDash, Instacart, and Grubhub drivers. Features change. Verify current pricing in the App Store or Play Store before you commit.
+Most drivers leave thousands of dollars on the table every year simply because they did not track their miles. A free app fixes that completely.
 
-## What the IRS wants from a mileage log
+## What the IRS requires for mileage deductions
 
-Publication 463 is the boring source of truth. A solid log includes:
+Before picking an app, understand what the IRS actually wants:
 
-* Date
-* Starting point and ending point (or odometer readings)
-* Business miles
-* Total miles for the year (so you can prove business-use percentage if needed)
-* Business purpose (“DoorDash lunch shift,” “UberX”)
+- Date of each trip
+- Starting point and destination
+- Business purpose of the trip
+- Total miles driven
 
-GPS apps are acceptable when they capture that information and you can produce a report. A screenshot of a weekly total with no dates is weak. Export PDFs or CSVs at least once a month and store them in a cloud folder named `Taxes/2025/mileage`.
+A mileage log that has all four elements for every trip is a valid record. An app that captures this automatically is far better than trying to reconstruct it from memory in April.
 
-The log should be contemporaneous — recorded as you drive, not rebuilt from memory in April.
+## The best free mileage tracker apps in 2025
 
-## How to choose an app in five minutes
+### 1. Stride
 
-Ignore the marketing and test four things:
+Stride is built specifically for gig workers and is completely free with no mileage cap.
 
-1. **Battery and accuracy.** Does it invent miles at a stoplight or die after two hours?
-2. **Classification.** Can you mark a trip as business vs. personal with one thumb?
-3. **Multi-app work.** Can you tag Uber vs. DoorDash, or at least leave a note?
-4. **Export.** Can you get a year-end report without paying a surprise “unlock my data” fee?
+**What it does well:**
+- Automatic mileage tracking via GPS
+- Expense tracking built in
+- Tax summary report at year end
+- Simple and clean interface
+- Works for Uber, Lyft, DoorDash, Instacart, and any other gig platform
 
-If an app holds your annual report hostage behind a January paywall, read the terms before tax season.
+**Limitations:**
+- No web dashboard on free plan
+- Customer support is limited
 
-## The free (or freemium) apps drivers actually use
+**Best for:** Drivers who want one free app that handles both mileage and expenses without paying anything.
 
-### Stride
+### 2. Everlance
 
-Stride is a long-time favorite among rideshare drivers because the free tier is genuinely useful: automatic trip detection, IRS-ready reports, and a tax-savings estimate. It is built around gig work rather than generic sales mileage.
+Everlance automatically detects when you start driving and logs the trip in the background.
 
-Watch-outs: auto-detection can capture a grocery run. Swipe personal trips to personal the same day. If you ignore the queue for a month, you will not remember which red-dot trip was a ping and which was your kid’s school.
+**What it does well:**
+- Automatic trip detection
+- Swipe to classify trips as business or personal
+- Clean reports exportable to PDF or CSV
+- Integrates with tax software
 
-### Gridwise
+**Limitations:**
+- Free plan caps at 30 trips per month
+- Heavy drivers will hit the limit quickly
 
-Gridwise leans into “gig work OS” — mileage plus earnings from multiple platforms, local gas prices, and offer tracking. The free version is enough for many drivers who want one dashboard instead of six apps.
+**Best for:** Part-time drivers doing fewer than 30 trips per month.
 
-Watch-outs: the extra bells can distract you. Mileage is the feature that must stay reliable. If a paid upgrade appears, decide whether you need the extras or just the log.
+### 3. MileIQ
 
-### Hurdlr
+MileIQ is owned by Microsoft and is one of the most polished mileage apps available.
 
-Hurdlr tracks mileage and expenses and can connect bank feeds. The automatic mileage tracking is the headline. Free plans exist but reports and advanced features may sit on a paid tier.
+**What it does well:**
+- Automatic background tracking
+- Swipe classification (business left, personal right)
+- Detailed reports
+- Very reliable GPS accuracy
 
-Good fit if you want mileage and a lightweight profit-and-loss in one place. Overkill if you will not categorize expenses weekly.
+**Limitations:**
+- Free plan limited to 40 drives per month
+- Full version requires a paid subscription
 
-### MileIQ
+**Best for:** Occasional drivers or those who want to test a premium product before paying.
 
-MileIQ is polished and aggressive about automatic capture. It is often a paid product after a monthly trip cap. If your free trial or included trips cover a light part-time schedule, fine. Full-time Dashers usually blow through free trip limits.
+### 4. Google Maps timeline (manual method)
 
-The swipe-left / swipe-right classification is excellent. Just know what happens when you exceed the cap.
+If you have location history turned on in Google Maps, your timeline shows everywhere you drove with timestamps and distances.
 
-### Everlance
+**What it does well:**
+- Already running on most Android phones
+- No extra app needed
+- Historical data if you forgot to track
 
-Everlance combines mileage and expense receipts. Automatic tracking is strong. Like others, the year-end report you want may require a subscription.
+**Limitations:**
+- Not designed for tax purposes
+- No business vs personal classification
+- Harder to export in IRS-friendly format
 
-If you already take a lot of photos of gas and hot-bag receipts, a combined app reduces the number of tools. If you only care about miles, a simpler tracker may be less noisy.
+**Best for:** Backup verification of other records, not primary tracking.
 
-### Google Maps timeline / Apple location history (backup only)
+### 5. Gridwise
 
-Your phone already stores a lot of location history. That is a **backup**, not a primary IRS log. Reconstructing a year of dashes from a map timeline is miserable and easy to challenge. Use it to fill a gap when an app crashed, then go back to a real tracker.
+Gridwise is designed specifically for rideshare and delivery drivers and combines earnings tracking with mileage.
 
-### A notes app plus odometer
+**What it does well:**
+- Connects directly to Uber, Lyft, DoorDash, and other apps
+- Shows earnings per hour and per mile
+- Mileage tracking built in
+- Surge and demand alerts
 
-Free, offline, unhackable. At the start of a shift write odometer and time. At the end, write odometer and “Lyft, 4 hours.” This still works. The failure mode is human: people forget. If you are disciplined, you do not need a startup’s permission to deduct miles.
+**Limitations:**
+- Mileage tracking less precise than dedicated trackers
+- Some features require paid plan
 
-## Quick comparison
+**Best for:** Drivers who want to see earnings analytics alongside mileage.
 
-|App|Free enough for part-time?|Auto-track|Gig-focused|Export quality|
-|-|-|-|-|-|
-|Stride|Usually yes|Yes|Strong|Strong on free tier historically|
-|Gridwise|Often yes|Yes|Strong|Good|
-|Hurdlr|Sometimes|Yes|Strong|Check paid gates|
-|MileIQ|Light use only|Yes|Moderate|Excellent, often paid|
-|Everlance|Sometimes|Yes|Moderate|Check paid gates|
-|Manual log|Yes|No|As good as you are|As good as you are|
+## Which miles actually count as deductible
 
-## A setup that works on day one
+Not every mile you drive is deductible. Here is what counts and what does not:
 
-1. Pick one app. Two apps means two incomplete logs.
-2. Allow location **Always**, not only while using.
-3. Disable battery optimization for that app on Android.
-4. Do a 20-minute test loop around the block and make sure the miles look sane.
-5. Create a rule: every time you go offline for the night, classify leftover trips before you lock the phone.
-6. On the first of each month, export last month’s report to cloud storage.
+**Deductible miles:**
+- Miles driven while waiting for a ping (you are on the app and available)
+- Miles driven to pick up a passenger or order
+- Miles driven during a trip or delivery
+- Miles driven between deliveries if you stay in work mode
 
-If the app wants a credit card for a “free trial,” set a calendar reminder two days before it converts.
+**Not deductible:**
+- Miles from home to where you start working (commuting)
+- Personal errands between shifts
+- Miles driven after you log off the app
 
-## Common mileage mistakes apps cannot save you from
+The moment you turn on the app and go online, your business mileage begins. The moment you go offline and head home, it ends. Most apps can be set to auto-start when you open your gig app.
 
-* Logging the drive to your W-2 job as gig miles
-* Counting every mile the car moved while the app was in your pocket at a movie
-* Deducting the same miles twice because Uber’s in-app total and your tracker overlap and you added them
-* Using 2024’s mileage rate on a 2025 return
-* Taking standard mileage **and** deducting gas, tires, and insurance for the same miles
+## Standard mileage vs actual expenses
 
-Platform “online miles” are not automatically IRS business miles. Your log is the source. The platform number is a cross-check.
+You have two ways to deduct vehicle costs:
+
+**Standard mileage rate:**
+- Multiply deductible miles by the IRS rate (70 cents per mile in 2025)
+- Simpler, requires only a mileage log
+- Works well for most drivers
+
+**Actual expenses:**
+- Track gas, insurance, repairs, depreciation, registration
+- Multiply total vehicle costs by the business use percentage
+- More complex, requires receipts for everything
+- Sometimes higher deduction for older or expensive-to-run vehicles
+
+Most gig drivers do better with the standard mileage rate because it is simpler and the rate is generous. Pick one method and stick with it for the year.
+
+## How to set up your mileage tracker correctly
+
+1. Download Stride (recommended starting point - it is free and unlimited)
+2. Enable location permissions - always on, not just while using the app
+3. Enable automatic trip detection in settings
+4. At the end of each driving day, open the app and classify any unclassified trips
+5. At year end, export the annual report and save it with your tax documents
+
+Takes about two minutes per day once the habit is set.
+
+## What happens if you get audited without a mileage log
+
+The IRS can disallow your entire vehicle deduction if you cannot produce a contemporaneous mileage log. Contemporaneous means recorded at or near the time of each trip, not reconstructed from memory months later.
+
+A free app running in the background costs nothing and takes zero daily effort after setup. The risk of not using one is losing your largest deduction.
 
 ## Bottom line
 
-The best free mileage app is the one you will not turn off. For many US rideshare and delivery drivers, Stride or Gridwise is the right place to start because they were built around this job. Test for a week. Export a sample report. If the miles look honest and you can get the data out, stop shopping and go back to accepting offers.
-
-Pair the app with a tax-savings habit. Miles only help if you still have cash when the IRS wants its share.
-
+Stride is the best starting point for most gig drivers because it is completely free, has no trip limits, and tracks both mileage and expenses. If you hit the monthly cap on another app, switch to Stride immediately. Set it up today, let it run in the background, and collect a deduction worth thousands of dollars at tax time.
