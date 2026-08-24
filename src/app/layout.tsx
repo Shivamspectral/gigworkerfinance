@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Analytics } from "@vercel/analytics/next"
 import type { ReactNode } from "react";
 import { Plus_Jakarta_Sans, Source_Serif_4 } from "next/font/google";
 import Script from "next/script";
