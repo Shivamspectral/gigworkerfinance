@@ -93,3 +93,8 @@ A quality phone mount positioned clearly in your line of sight, with both apps o
 ## Bottom line
 
 Multi-apping is a legitimate income optimization strategy when done correctly - having multiple apps active while available, accepting only one request at a time, and pausing secondary apps immediately upon accepting a primary request. The main discipline required is never accepting overlapping requests, which is both a terms of service issue and a basic service quality and safety matter. Done right, it primarily benefits drivers in slower markets or during off-peak hours where single-platform idle time is highest.
+
+## Related guides
+
+- [How to multi-app Uber and DoorDash without getting deactivated](/blog/avoid-deactivation-multi-apping-uber-doordash) – timing rules and stat thresholds to stay in good standing on both platforms.
+- [Multi-apping taxes: tracking mileage and income across apps](/blog/multi-apping-taxes-tracking-mileage-income) – handling multiple 1099s and the miles your in-app trackers miss.
