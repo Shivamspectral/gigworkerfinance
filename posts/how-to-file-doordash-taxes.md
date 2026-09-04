@@ -106,3 +106,8 @@ File Form 1040-X to amend a previous return. This is common for gig workers who 
 ## Bottom line
 
 Filing DoorDash taxes involves Schedule C for your business income and expenses, Schedule SE for self-employment tax, and your regular Form 1040. Gather your documents early, choose reliable tax software or a preparer familiar with gig work, and double check that all your platforms' 1099s are included before submitting.
+
+## Related guides
+
+- [How to get your DoorDash 1099 (and what to do if you never received one)](/blog/how-to-get-doordash-1099) – finding your form in Stripe Express, and filing correctly if you earned under the threshold.
+- [Schedule C for DoorDash drivers: line-by-line walkthrough](/blog/schedule-c-doordash-drivers-line-by-line) – which line each deduction goes on and how net profit flows to Schedule SE.
