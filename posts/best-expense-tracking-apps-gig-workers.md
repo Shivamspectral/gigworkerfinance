@@ -144,3 +144,7 @@ Keep digital or physical copies of any receipt over $75, as some tax situations 
 ## Bottom line
 
 Stride remains the best free starting point for most gig drivers, combining mileage and basic expense tracking at no cost. Full-time drivers with higher expense volume should consider QuickBooks Self-Employed or Keeper Tax to justify the subscription through better organization and deduction discovery. Whatever you choose, the habit of logging expenses immediately matters more than which specific app you use.
+
+## Related guides
+
+- [What records gig drivers need to keep for tax deductions (and how long)](/blog/gig-driver-tax-records-receipts-how-long-to-keep) – what the IRS actually expects your tracking app to capture, and how long to hold onto it.
